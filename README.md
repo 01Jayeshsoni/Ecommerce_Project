@@ -122,7 +122,7 @@ The Ecommerce App is open source and distributed under the [MIT License](https:/
 
 ## Contact
 
-If you have any questions or inquiries, please contact [your-email@example.com](mailto:your-email@example.com).
+If you have any questions or inquiries, please contact [01jayeshsoni@gmail.com](mailto:01jayeshsoni@gmail.com).
 
 ## Acknowledgements
 
